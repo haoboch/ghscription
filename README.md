@@ -6,7 +6,7 @@ Tokens: https://github.com/ghscr/ghscription/blob/main/tokens.json
 
 Inscriptions: https://github.com/ghscr/ghscription/tree/main/inscriptions
 
-Join Telegram: https://t.me/+oaTuuPLnYaNjNDFh
+Join Telegram: https://t.me/ghscription
 
 ### How it works?
 
