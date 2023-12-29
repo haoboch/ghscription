@@ -8,6 +8,8 @@ Inscriptions: https://github.com/ghscr/ghscription/tree/main/inscriptions
 
 Join Telegram: https://t.me/ghscription
 
+Twitter: https://twitter.com/ghscription
+
 ### How it works?
 
 Add an issue to this repository with the following content. A bot would automatically commit a JSON if the issue is valid.
